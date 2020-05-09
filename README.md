@@ -14,6 +14,11 @@ Build and evaluate several machine learning models to assess credit risk, using 
 
 •	Implement machine learning models. <br>
 •	Use resampling to attempt to address class imbalance.<br>
-•	Evaluate the performance of machine learning models.
+•	Evaluate the performance of machine learning models.<br>
+
+---
+
+The summary and analysis is in **`credit_risk_resampling_Challenge.ipynb`**
+
 
 
