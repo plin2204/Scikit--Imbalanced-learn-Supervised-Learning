@@ -18,7 +18,7 @@ Build and evaluate several machine learning models to assess credit risk, using 
 
 ---
 
-The summary and analysis is in **`credit_risk_resampling_Challenge.ipynb`**
+The summary and analysis is in [`credit_risk_resampling_Challenge.ipynb`](https://github.com/plin2204/Supervised-Learning_Scikit_Imbalanced-learn_/blob/master/credit_risk_resampling_Challenge.ipynb).
 
 
 
