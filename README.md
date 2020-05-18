@@ -13,7 +13,7 @@ Use **Python (Scikit-learn, and Imbalanced-learn)** to build and evaluate severa
 Build and evaluate several machine learning models to assess credit risk, using data from LendingClub; a peer-to-peer lending services company.
 
 •	Implement machine learning models. <br>
-•	Use resampling to attempt to address **class imbalance**.<br>
+•	Use **resampling** to attempt to address **class imbalance**.<br>
 •	Evaluate the performance of machine learning models.<br>
 
 ---
