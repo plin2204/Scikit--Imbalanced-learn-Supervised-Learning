@@ -1,5 +1,5 @@
 # Scikit--Imbalanced-learn-Supervised-Learning
-Use **Python (Scikit-learn, and Imbalanced-learn) ** to build and evaluate several **machine learning** models to predict credit risk. 
+Use **Python (Scikit-learn, and Imbalanced-learn)** to build and evaluate several **machine learning** models to predict credit risk. 
 
 ## Steps
 •	Explain how a machine learning algorithm is used in data analytics. <br>
